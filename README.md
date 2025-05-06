@@ -71,7 +71,8 @@ plt.imshow(img_erode,cmap='gray')
 <br>
 <br>
 <br>
-<br>
+<br>![Screenshot 2025-05-06 155910](https://github.com/user-attachments/assets/bfbfbf28-5839-4378-8c22-692882c7e93f)
+
 <br>
 <br>
 
@@ -79,7 +80,8 @@ plt.imshow(img_erode,cmap='gray')
 <br>
 <br>
 <br>
-<br>
+<br>![Screenshot 2025-05-06 160155](https://github.com/user-attachments/assets/c0b58698-0644-4971-a9e3-7221bd690c79)
+
 <br>
 <br>
 
@@ -87,7 +89,8 @@ plt.imshow(img_erode,cmap='gray')
 <br>
 <br>
 <br>
-<br>
+<br>![Screenshot 2025-05-06 160208](https://github.com/user-attachments/assets/cfa0d26e-5c72-4e19-8315-67b8894ed46c)
+
 <br>
 <br>
 
