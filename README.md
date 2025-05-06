@@ -6,23 +6,30 @@ To implement Erosion and Dilation using Python and OpenCV.
 2. OpenCV
 ## Algorithm:
 ### Step1:
+Import the necessary pacakages
 <br>
 
-
 ### Step2:
+Create the text using cv2.putText
 <br>
 
 ### Step3:
+Create the structuring element
 <br>
 
 ### Step4:
+Erode the image
 <br>
 
 ### Step5:
+Dilate the Image
 <br>
 
  
 ## Program:
+```
+NAME : YUVARAM S
+REG NO : 212224230315
 
 ``` Python
 # Import the necessary packages
